@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Saber 11 CGR</string>
+    <string name="school_name">Colegio Gustavo Restrepo (IED)</string>
+    <string name="school_dane">DANE 111001027332 • Bogotá D.C. • Oficial Urbano</string>
+    <string name="tab_general">Panorama General</string>
+    <string name="tab_area">Mi Área</string>
+    <string name="tab_mejora">Plan de Mejora</string>
+    <string name="tab_guia">Guía Fácil</string>
+    <string name="share_report">Compartir Reporte del Área</string>
+    <string name="beginner_mode_title">Modo Explicación Sencilla</string>
+    <string name="beginner_mode_subtitle">Traduce datos estadísticos a consejos claros para el aula</string>
+</resources>

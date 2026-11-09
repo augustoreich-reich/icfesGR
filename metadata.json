@@ -1,0 +1,6 @@
+{
+  "name": "Saber 11 CGR",
+  "description": "Analítica histórica e interactiva de resultados Saber 11° (2018-2026) por áreas para docentes del Colegio Gustavo Restrepo IED.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
